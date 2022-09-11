@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.logout-main {
+    background-color: rgb(7, 8, 19);
+    height: 100vh;
+}
+
+.main-container {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding-top: 4rem;
+}
+
+.gif-container>img {
+    width: 35%;
+    margin: auto;
+}
+
+.text>h2 {
+    font-size: 40px;
+    color: rgb(215, 42, 42);
+    font-weight: 600;
+    margin-top: -6px;
+    cursor: pointer;
+}
+
+.text>p {
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+}
